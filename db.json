@@ -1,4 +1,5 @@
-{"JobList":[
+{"JobList":{
+    "GetJobListFilterValues":[
     {
       "JM_Id": 1869095,
       "JM_OF_Id": 1,
@@ -126,4 +127,5 @@
       "Certified": "Yes"
     }
         ]
+}
 }
