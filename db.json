@@ -123,7 +123,106 @@
     "ReportType": "QuikView Equipment",
     "InspectorJobStatus": "Early Access",
     "CM_Name": "Allegiant Partners",
-    "Certified": "Yes"
+    "Certified": "Yes",
+    "Address": [
+      {
+        "AD_Address1": "966 Wood St",
+        "AD_Address2": "D22",
+        "AD_City": "Fall River",
+        "AD_State": "MA ",
+        "AD_PostalCode": "02721",
+        "AD_CO_Code": "USA",
+        "LocationType": "Vendor/Seller"
+      }
+    ],
+    "Contact": [
+      {
+        "CON_First": "Brian",
+        "CON_Last": "Chouinard",
+        "CON_Phone1": "774-451-3585",
+        "CON_Ext1": null,
+        "CON_TYP_ID": 11
+      }
+    ],
+    "Order": {
+      "jo_LoginID": 53929,
+      "jo_EqptDesc": "",
+      "jo_Attachment": "",
+      "jo_faxed": 0,
+      "jo_faxpages": 0,
+      "jo_Instructions": "",
+      "jo_EqptMethod": "I",
+      "jo_ConType1": "3",
+      "jo_ConType2": "1",
+      "CallWithQuote": null,
+      "Add_Instructions": null,
+      "Add_SecondaryContacts": [
+        {
+          "CON_First": null,
+          "CON_Last": null,
+          "CON_Phone1": null,
+          "CON_Ext1": null,
+          "CON_TYP_ID": null
+        }
+      ]
+    },
+    "JobOption": [
+      {
+        "JobOptionTypeID": null,
+        "Value": null
+      }
+    ],
+    "Inventory": [
+      {
+        "JI_Qty": 1,
+        "JI_Description": "2015 Chevrolet 3500",
+        "JI_SerialNo": "1GB0G3CF4F1120324",
+        "JI_Notes": "",
+        "DetailID": 512157769
+      }
+    ],
+    "Pay": [
+      {
+        "PayState": "Actual",
+        "Description": "Report Cost",
+        "Qty": 1,
+        "Rate": 38,
+        "Amount": 38
+      },
+      {
+        "PayState": "Actual",
+        "Description": "Zone Pay (Z1)",
+        "Qty": 1,
+        "Rate": 10,
+        "Amount": 10
+      }
+    ],
+    "Client": {
+      "CM_Name": "Allegiant Partners",
+      "CM_BillClass": "IS Platinum 2021",
+      "CM_Phone1": "800-604-4817",
+      "CM_Fax": "",
+      "CM_Ext1": "",
+      "CM_Instruct": "",
+      "CM_Contact": "Aubri Anderson",
+      "CM_Ext2": "",
+      "CM_Email": "Aubri@allegiant-partners.com",
+      "CM_WatchNote": "$185 charge for all QuikPROs - No charge for remote locations.\r\n$120 for QuikVIEWs - QUIKVIEW EQUIPMENT INSPECTIONS MIGHT BE ORDERED.  Make sure no more than 10 items and update them if upgrading to a QP."
+    },
+    "Inspector": {
+      "IM_InspectNo": "CJ3961",
+      "IM_First": "JAY",
+      "IM_Last": "JEW",
+      "IM_CON_Mobile": "(508) 493-1166",
+      "IM_CON_Phone1": "",
+      "IM_CON_Fax": "",
+      "IM_CON_Email": "jlj888@comcast.net",
+      "IM_CON_Phone2": "",
+      "IM_CON_Phone3": "",
+      "IM_Limit": null,
+      "IM_RemNote": "10/10/2014 --JMV--Jay agreed to work for a reduced zone pay, in order to have jobs reassigned to him in Western MA that had gone to closer inspectors.  Jay agreed to work for the same zone/travel pay as the current closest inspector in order to keep the work.  Approved by Erik Berger. \r\n7/2/2008 TV - Re-activated - Will remain QTUS693 HP2490/SCN/RENT\r\n11/2/07 EDS: QTUS693\r\nHP2490/SCN/RENT--returned \r\n",
+      "IM_CON_Pager": ""
+    }
   },
   {
     "JM_Id": 2856823,
@@ -249,7 +348,332 @@
     "ReportType": "QuikView Merchant Cash Site Inspection",
     "InspectorJobStatus": "Early Access",
     "CM_Name": "Snap Finance, LLC",
-    "Certified": "Yes"
+    "Certified": "Yes",
+    "Address": [
+      {
+        "AD_Address1": "221 S BELT LINE RD",
+        "AD_Address2": "# 103",
+        "AD_City": "Irving",
+        "AD_State": "TX ",
+        "AD_PostalCode": "75060",
+        "AD_CO_Code": "USA",
+        "LocationType": "Lessee/Borrower"
+      }
+    ],
+    "Contact": [
+      {
+        "CON_First": "Mohamad",
+        "CON_Last": "Hajmahmoud",
+        "CON_Phone1": "(214) 906-3953",
+        "CON_Ext1": null,
+        "CON_TYP_ID": 11
+      }
+    ],
+    "Order": {
+      "jo_LoginID": 70282,
+      "jo_EqptDesc": "",
+      "jo_Attachment": "",
+      "jo_faxed": 0,
+      "jo_faxpages": 0,
+      "jo_Instructions": "Additional Contact: Mohamad Hajmahmoud (972) 740-2629 ext: \r\nJob Options: \r\n\t\tDriver's License Photo required\r\n\t\tBusiness License Photo required\r\n",
+      "jo_EqptMethod": "",
+      "jo_ConType1": "1",
+      "jo_ConType2": "1",
+      "CallWithQuote": null,
+      "Add_Instructions": null,
+      "Add_SecondaryContacts": [
+        {
+          "CON_First": null,
+          "CON_Last": null,
+          "CON_Phone1": null,
+          "CON_Ext1": null,
+          "CON_TYP_ID": null
+        }
+      ]
+    },
+    "JobOption": [
+      {
+        "JobOptionTypeID": 90,
+        "Value": ""
+      },
+      {
+        "JobOptionTypeID": 91,
+        "Value": ""
+      }
+    ],
+    "Inventory": [
+      {
+        "JI_Qty": null,
+        "JI_Description": null,
+        "JI_SerialNo": null,
+        "JI_Notes": null,
+        "DetailID": null
+      }
+    ],
+    "Pay": [
+      {
+        "PayState": "Actual",
+        "Description": "Report Cost",
+        "Qty": 1,
+        "Rate": 25,
+        "Amount": 25
+      }
+    ],
+    "Client": {
+      "CM_Name": "Snap Finance, LLC",
+      "CM_BillClass": "IS Standard",
+      "CM_Phone1": "877-789-4384",
+      "CM_Fax": "",
+      "CM_Ext1": "",
+      "CM_Instruct": "Scheduling: Please identify yourself as a representative of Snap Finance. The purpose of the site visit is to complete the next step in the application process. The merchant has applied online to become a merchant partner with Snap Finance and a site visit is the next step in that process. \r\n\r\nYou can schedule with the listed contact or the site manager. If merchant is unsure about the inspection, please provide them with the phone number for Snap: 877- 789- 4384, and inform Quiktrak immediately.",
+      "CM_Contact": "Maribel Gaspar",
+      "CM_Ext2": "",
+      "CM_Email": "mgaspar@snapfinance.com;merchantonboarding@snapfinance.com",
+      "CM_WatchNote": "Pricing is Valid through Dec 31, 2020 wtg\r\n\r\nEffective 6/12/2019 - pricing changed to:\r\nSnap Finance / SF9050\r\n•\t24hr - $70\r\n•\t3-day - $62.50\r\n•\t5-day - $62.50\r\n**Remotes allowed.\r\nThey will be grandfathered in at the same rate as Snap Advance, their parent company, with the rate of $62.50 with a monthly volume of 300 per month.\r\n5/22/2019 - Per Walt, he would like to allow this low pricing for two years."
+    },
+    "Inspector": {
+      "IM_InspectNo": "CJ7141",
+      "IM_First": "MICAH",
+      "IM_Last": "JACKSON",
+      "IM_CON_Mobile": "817-726-6920",
+      "IM_CON_Phone1": "",
+      "IM_CON_Fax": "",
+      "IM_CON_Email": "luckycharm114@gmail.com",
+      "IM_CON_Phone2": "",
+      "IM_CON_Phone3": "",
+      "IM_Limit": null,
+      "IM_RemNote": "",
+      "IM_CON_Pager": "8177266920@messaging.sprintpcs.com"
+    },
+    "groupedJob":[
+      {
+        "jobid":1,
+        "Latitude":45.439204,
+        "Longitude":-122.961854,
+        "label":"$55",
+        "jobType":"open",
+        "iconPath":"greymarker",
+        "fontFamily": "Source Sans Pro",
+        "className":"unlock-label",
+        "JobName": "Carbon Consultants, LLC  …",
+        "PersonName": "John Deere",
+        "Price": "$55",
+        "est":"est.",
+        "DueTime": "Due on May 5",
+        "locationName": "Main Location",
+        "distance": "10.2mi away",
+        "location": "810 S. Larch St, Bingen, AZ 97008",
+        "amount": "Pays $35.00",
+        "JM_Appt": "S",
+        "JM_CheckPU": "N",
+        "JM_Tag": "0",
+        "JM_SiteDueDate": "2020-10-15T05:36:32.04",
+        "Address": [
+          {
+              "AD_Address1": "1702 S Nappanee St",
+              "AD_Address2": "",
+              "AD_City": "Elkhart",
+              "AD_State": "IN ",
+              "AD_PostalCode": "46516",
+              "AD_CO_Code": "USA",
+              "LocationType": "Lessee/Borrower"
+          }
+      ],
+      "Contact": [
+          {
+              "CON_First": "Tommy",
+              "CON_Last": "Gross",
+              "CON_Phone1": "(574) 370-1099",
+              "CON_Ext1": null,
+              "CON_TYP_ID": 11
+          }
+      ],
+      "Order": {
+          "jo_LoginID": 61763,
+          "jo_EqptDesc": "",
+          "jo_Attachment": "",
+          "jo_faxed": 0,
+          "jo_faxpages": 0,
+          "jo_Instructions": "Job Options: \r\n\t\tDriver's License Photo required\r\n\t\tBusiness License Photo required\r\nSite Details: tt46767@gmail.com",
+          "jo_EqptMethod": "",
+          "jo_ConType1": "1",
+          "jo_ConType2": "1",
+          "CallWithQuote": null,
+          "Add_Instructions": null,
+          "Add_SecondaryContacts": [
+              {
+                  "CON_First": null,
+                  "CON_Last": null,
+                  "CON_Phone1": null,
+                  "CON_Ext1": null,
+                  "CON_TYP_ID": null
+              }
+          ]
+      },
+      "JobOption": [
+          {
+              "JobOptionTypeID": 90,
+              "Value": ""
+          },
+          {
+              "JobOptionTypeID": 91,
+              "Value": ""
+          }
+      ],
+      "Inventory": [
+          {
+              "JI_Qty": null,
+              "JI_Description": null,
+              "JI_SerialNo": null,
+              "JI_Notes": null,
+              "DetailID": null
+          }
+      ],
+      "Pay": [
+          {
+              "PayState": "Actual",
+              "Description": "Report Cost",
+              "Qty": 1.0,
+              "Rate": 25.0,
+              "Amount": 25.0
+          },
+          {
+              "PayState": "Actual",
+              "Description": "Additional Pay",
+              "Qty": 1.0,
+              "Rate": 10.0,
+              "Amount": 10.0
+          }
+      ],
+      "Client": {
+          "CM_Name": "Snap Finance, LLC",
+          "CM_BillClass": "IS Standard",
+          "CM_Phone1": "877-789-4384",
+          "CM_Fax": "",
+          "CM_Ext1": "",
+          "CM_Instruct": "Scheduling: Please identify yourself as a representative of Snap Finance. The purpose of the site visit is to complete the next step in the application process. The merchant has applied online to become a merchant partner with Snap Finance and a site visit is the next step in that process. \r\n\r\nYou can schedule with the listed contact or the site manager. If merchant is unsure about the inspection, please provide them with the phone number for Snap: 877- 789- 4384, and inform Quiktrak immediately.",
+          "CM_Contact": "Winfred Pauley",
+          "CM_Ext2": "",
+          "CM_Email": "wpauley@snapfinance.com;merchantonboarding@snapfinance.com",
+          "CM_WatchNote": "Pricing is Valid through Dec 31, 2020 wtg\r\n\r\nEffective 6/12/2019 - pricing changed to:\r\nSnap Finance / SF9050\r\n•\t24hr - $70\r\n•\t3-day - $62.50\r\n•\t5-day - $62.50\r\n**Remotes allowed.\r\nThey will be grandfathered in at the same rate as Snap Advance, their parent company, with the rate of $62.50 with a monthly volume of 300 per month.\r\n5/22/2019 - Per Walt, he would like to allow this low pricing for two years."
+      },
+      "Inspector": {
+          "IM_InspectNo": "CS4734",
+          "IM_First": "JAMES",
+          "IM_Last": "SIBLEY",
+          "IM_CON_Mobile": "(574)904-6552",
+          "IM_CON_Phone1": "",
+          "IM_CON_Fax": "(574)272-2176",
+          "IM_CON_Email": "integrity.inspect@ameritech.net",
+          "IM_CON_Phone2": "(574)904-6552",
+          "IM_CON_Phone3": "",
+          "IM_Limit": null,
+          "IM_RemNote": "",
+          "IM_CON_Pager": "5749046552@txt.att.net"
+      },
+      "AvailSchedDates": [
+          {
+              "Date": null
+          }
+      ],
+        "gropuedLocations": [
+          {
+              "locationName": "Main Location",
+              "distance": "10.2mi away",
+              "location": "810 S. Larch St, Bingen, AZ 97008",
+              "amount": "Pays $35.00"
+          }
+        ]
+        },
+        {
+          "jobid":2,
+          "Latitude":45.439204,
+          "Longitude":-122.961854,
+          "label":"$55",
+          "jobType":"open",
+          "iconPath":"greymarker",
+          "fontFamily": "Source Sans Pro",
+          "className":"unlock-label",
+          "JobName": "Carbon Consultants, LLC  …",
+          "PersonName": "John Deere",
+          "Price": "$55",
+          "est":"est.",
+          "DueTime": "Due on May 5",
+          "locationName": "Main Location",
+          "distance": "10.2mi away",
+          "location": "810 S. Larch St, Bingen, AZ 97008",
+          "amount": "Pays $35.00",
+          "gropuedLocations": [
+              {
+                  "locationName": "Main Location",
+                  "distance": "10.2mi away",
+                  "location": "810 S. Larch St, Bingen, AZ 97008",
+                  "amount": "Pays $35.00"
+              }
+            ],
+          "Pay": [
+            {
+                "PayState": "Actual",
+                "Description": "Report Cost",
+                "Qty": 1.0,
+                "Rate": 25.0,
+                "Amount": 25.0
+            },
+            {
+                "PayState": "Actual",
+                "Description": "Additional Pay",
+                "Qty": 1.0,
+                "Rate": 10.0,
+                "Amount": 10.0
+            }
+        ]
+
+        },
+        {
+          "jobid":3,
+          "Latitude":45.439204,
+          "Longitude":-122.961854,
+          "label":"$55",
+          "jobType":"open",
+          "iconPath":"greymarker",
+          "fontFamily": "Source Sans Pro",
+          "className":"unlock-label",
+          "JobName": "Carbon Consultants, LLC  …",
+          "PersonName": "John Deere",
+          "Price": "$55",
+          "est":"est.",
+          "DueTime": "Due on May 5",
+          "locationName": "Main Location",
+          "distance": "10.2mi away",
+          "location": "810 S. Larch St, Bingen, AZ 97008",
+          "amount": "Pays $35.00",
+          "Pay": [
+            {
+                "PayState": "Actual",
+                "Description": "Report Cost",
+                "Qty": 1.0,
+                "Rate": 25.0,
+                "Amount": 25.0
+            },
+            {
+                "PayState": "Actual",
+                "Description": "Additional Pay",
+                "Qty": 1.0,
+                "Rate": 10.0,
+                "Amount": 10.0
+            }
+        ],
+        "gropuedLocations": [
+          {
+              "locationName": "Main Location",
+              "distance": "10.2mi away",
+              "location": "810 S. Larch St, Bingen, AZ 97008",
+              "amount": "Pays $35.00"
+          }
+        ]
+
+        }
+      ]
   },
   {
     "JM_Id": 974112,
@@ -350,7 +774,99 @@
     "ReportType": "QuikView Collection",
     "InspectorJobStatus": "Early Access",
     "CM_Name": "G.E. Commercial Fin. - EFS",
-    "Certified": "Yes"
+    "Certified": "Yes",
+    "Address": [
+      {
+        "AD_Address1": "5550 MOREHOUSE DR.",
+        "AD_Address2": "",
+        "AD_City": "SAN DIEGO",
+        "AD_State": "CA ",
+        "AD_PostalCode": "92121",
+        "AD_CO_Code": "USA",
+        "LocationType": ""
+      }
+    ],
+    "Contact": [
+      {
+        "CON_First": "STEVE",
+        "CON_Last": "ROSOFFA",
+        "CON_Phone1": "(828)558-7800",
+        "CON_Ext1": null,
+        "CON_TYP_ID": 11
+      }
+    ],
+    "Order": {
+      "jo_LoginID": null,
+      "jo_EqptDesc": null,
+      "jo_Attachment": null,
+      "jo_faxed": null,
+      "jo_faxpages": null,
+      "jo_Instructions": null,
+      "jo_EqptMethod": null,
+      "jo_ConType1": null,
+      "jo_ConType2": null,
+      "CallWithQuote": null,
+      "Add_Instructions": null,
+      "Add_SecondaryContacts": [
+        {
+          "CON_First": null,
+          "CON_Last": null,
+          "CON_Phone1": null,
+          "CON_Ext1": null,
+          "CON_TYP_ID": null
+        }
+      ]
+    },
+    "JobOption": [
+      {
+        "JobOptionTypeID": null,
+        "Value": null
+      }
+    ],
+    "Inventory": [
+      {
+        "JI_Qty": null,
+        "JI_Description": null,
+        "JI_SerialNo": null,
+        "JI_Notes": null,
+        "DetailID": null
+      }
+    ],
+    "Pay": [
+      {
+        "PayState": "Actual",
+        "Description": "Report Cost",
+        "Qty": 1,
+        "Rate": 27.5,
+        "Amount": 27.5
+      }
+    ],
+    "Client": {
+      "CM_Name": "G.E. Commercial Fin. - EFS",
+      "CM_BillClass": "IS Platinum",
+      "CM_Phone1": "",
+      "CM_Fax": "",
+      "CM_Ext1": "",
+      "CM_Instruct": "WATCH FOR SPECIAL INSTRUCTIONS.  MAY SHOW \"PRIVATE LABEL.\" IF SO, DO NOT IDENTIFY YOURSELF AS BEING THERE ON BEHALF OF GE.  USE COMPANY LISTED NEXT TO \"PRIVATE LABEL.\"  UNLESS SPECIFICALLY NOTED, DO NOT SAY YOU ARE THERE ON BEHALF OF GE. UNDER NO CIRCUMSTANCES ARE YOU TO PICK UP A CHECK OR VISIT A RESIDENCE. THE PURPOSE OF THE INSPECTION IS TO GET THE CONTACT ON THE PHONE WITH GE.  CHECK SPECIAL INSTRUCTIONS FOR DIRECTION ON PHONE CLEARANCE. DO NOT LEAVE CALL-BACK CARD, LEAVE THE LETTER INCLUDED WITH THE REMINDER FORM.  CONTACT QT IF IT IS NOT ATTACHED TO JOB OR EMAILED.  PHONE CLEARANCE IN PERSON IS REQUIRED ON ALL GE INSPECTIONS AND GE CLOSES AT 4PM CT.  CRITICAL THAT YOU GET THE LESSEE ON THE PHONE WITH GE.  IF UNABLE TO GET THROUGH, LEAVE A MESSAGE WITH THE JOB NAME AND REFERENCE NUMBER AND YOUR CONTACT INFORMATION.  DO NOT LEAVE UNTIL YOU HAVE SPOKEN TO GE.  IF NO LUCK AFTER 20 MIN., CONTACT QUIKTRAK.",
+      "CM_Contact": "",
+      "CM_Ext2": "",
+      "CM_Email": "",
+      "CM_WatchNote": ""
+    },
+    "Inspector": {
+      "IM_InspectNo": "CG5277",
+      "IM_First": "BERNARD",
+      "IM_Last": "GORMLEY",
+      "IM_CON_Mobile": "(858)449-5407",
+      "IM_CON_Phone1": "(858)689-1826",
+      "IM_CON_Fax": "(858) 689-0909",
+      "IM_CON_Email": "jimgormley@outlook.com",
+      "IM_CON_Phone2": "",
+      "IM_CON_Phone3": "(858)449-3928",
+      "IM_Limit": 1,
+      "IM_RemNote": "2/22/2018 JMV-- Jim has asked to be inactivated, effective 3/2/18.",
+      "IM_CON_Pager": "8584493928@tmomail.net"
+    }
   },
   {
     "JM_Id": 1023073,
@@ -451,7 +967,99 @@
     "ReportType": "QuikView Collection",
     "InspectorJobStatus": "Early Access",
     "CM_Name": "G.E. Commercial Fin. - EFS",
-    "Certified": "Yes"
+    "Certified": "Yes",
+    "Address": [
+      {
+        "AD_Address1": "5550 MOREHOUSE DR.",
+        "AD_Address2": "",
+        "AD_City": "SAN DIEGO",
+        "AD_State": "CA ",
+        "AD_PostalCode": "92121",
+        "AD_CO_Code": "USA",
+        "LocationType": ""
+      }
+    ],
+    "Contact": [
+      {
+        "CON_First": "STEVE",
+        "CON_Last": "ROSOFFA",
+        "CON_Phone1": "(858)558-7800",
+        "CON_Ext1": null,
+        "CON_TYP_ID": 11
+      }
+    ],
+    "Order": {
+      "jo_LoginID": null,
+      "jo_EqptDesc": null,
+      "jo_Attachment": null,
+      "jo_faxed": null,
+      "jo_faxpages": null,
+      "jo_Instructions": null,
+      "jo_EqptMethod": null,
+      "jo_ConType1": null,
+      "jo_ConType2": null,
+      "CallWithQuote": null,
+      "Add_Instructions": null,
+      "Add_SecondaryContacts": [
+        {
+          "CON_First": null,
+          "CON_Last": null,
+          "CON_Phone1": null,
+          "CON_Ext1": null,
+          "CON_TYP_ID": null
+        }
+      ]
+    },
+    "JobOption": [
+      {
+        "JobOptionTypeID": null,
+        "Value": null
+      }
+    ],
+    "Inventory": [
+      {
+        "JI_Qty": null,
+        "JI_Description": null,
+        "JI_SerialNo": null,
+        "JI_Notes": null,
+        "DetailID": null
+      }
+    ],
+    "Pay": [
+      {
+        "PayState": "Actual",
+        "Description": "Report Cost",
+        "Qty": 1,
+        "Rate": 27.5,
+        "Amount": 27.5
+      }
+    ],
+    "Client": {
+      "CM_Name": "G.E. Commercial Fin. - EFS",
+      "CM_BillClass": "IS Platinum",
+      "CM_Phone1": "",
+      "CM_Fax": "",
+      "CM_Ext1": "",
+      "CM_Instruct": "WATCH FOR SPECIAL INSTRUCTIONS.  MAY SHOW \"PRIVATE LABEL.\" IF SO, DO NOT IDENTIFY YOURSELF AS BEING THERE ON BEHALF OF GE.  USE COMPANY LISTED NEXT TO \"PRIVATE LABEL.\"  UNLESS SPECIFICALLY NOTED, DO NOT SAY YOU ARE THERE ON BEHALF OF GE. UNDER NO CIRCUMSTANCES ARE YOU TO PICK UP A CHECK OR VISIT A RESIDENCE. THE PURPOSE OF THE INSPECTION IS TO GET THE CONTACT ON THE PHONE WITH GE.  CHECK SPECIAL INSTRUCTIONS FOR DIRECTION ON PHONE CLEARANCE. DO NOT LEAVE CALL-BACK CARD, LEAVE THE LETTER INCLUDED WITH THE REMINDER FORM.  CONTACT QT IF IT IS NOT ATTACHED TO JOB OR EMAILED.  PHONE CLEARANCE IN PERSON IS REQUIRED ON ALL GE INSPECTIONS AND GE CLOSES AT 4PM CT.  CRITICAL THAT YOU GET THE LESSEE ON THE PHONE WITH GE.  IF UNABLE TO GET THROUGH, LEAVE A MESSAGE WITH THE JOB NAME AND REFERENCE NUMBER AND YOUR CONTACT INFORMATION.  DO NOT LEAVE UNTIL YOU HAVE SPOKEN TO GE.  IF NO LUCK AFTER 20 MIN., CONTACT QUIKTRAK.",
+      "CM_Contact": "",
+      "CM_Ext2": "",
+      "CM_Email": "",
+      "CM_WatchNote": ""
+    },
+    "Inspector": {
+      "IM_InspectNo": "CG5277",
+      "IM_First": "BERNARD",
+      "IM_Last": "GORMLEY",
+      "IM_CON_Mobile": "(858)449-5407",
+      "IM_CON_Phone1": "(858)689-1826",
+      "IM_CON_Fax": "(858) 689-0909",
+      "IM_CON_Email": "jimgormley@outlook.com",
+      "IM_CON_Phone2": "",
+      "IM_CON_Phone3": "(858)449-3928",
+      "IM_Limit": 1,
+      "IM_RemNote": "2/22/2018 JMV-- Jim has asked to be inactivated, effective 3/2/18.",
+      "IM_CON_Pager": "8584493928@tmomail.net"
+    }
   }
     ],
     "GetJobListFilterValues":{
