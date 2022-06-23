@@ -167,21 +167,6 @@
                     }
                 ]
             },
-            "JobOption": [
-                {
-                    "JobOptionTypeID": null,
-                    "Value": null
-                }
-            ],
-            "Inventory": [
-                {
-                    "JI_Qty": 1,
-                    "JI_Description": "2015 Chevrolet 3500",
-                    "JI_SerialNo": "1GB0G3CF4F1120324",
-                    "JI_Notes": "",
-                    "DetailID": 512157769
-                }
-            ],
             "Pay": [
                 {
                     "PayState": "Actual",
